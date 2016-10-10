@@ -1,4 +1,3 @@
-##Author: Pratik Bhandary
 ##10-10-2016
 require(gdata)
 require(graphics)
