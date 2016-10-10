@@ -32,11 +32,4 @@ seasonplot(Colour_Plot_for_all_years ,12, col=rainbow(12),year.labels=TRUE)
 #READ THIS FROM THESE WEBSITE FOR EXPLANATION
 #https://www.r-bloggers.com/time-series-decomposition/
 #http://rstatistics.net/time-series-analysis/
-#######CHANGE THE LANGUAGE COZ THIS IS COPIED FROM INTERNET
-#The four graphs are the original data, seasonal component, trend component and
-# the remainder and this shows the periodic seasonal pattern extracted out from the
-# original data and the trend that moves around between 47 and 51 degrees
-# Fahrenheit. There is a bar at the right hand side of each graph to allow a 
-# relative comparison of the magnitudes of each component. For this data the 
-#  change in trend is less than the variation doing to the monthly variation.
 
